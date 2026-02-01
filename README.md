@@ -8,11 +8,11 @@ The analysis focuses on post-pandemic differences between middle and high school
 Attendance declined following the COVID-19 pandemic across all school levels, with high schools showing a steeper decline and weaker recovery than middle schools.
 
 ## Contents
-- `/brief` – One-page analytical brief (PDF)
-- `/data_clean` – Cleaned attendance dataset
-- `/sql` – SQL used for data preparation and analysis
-- `/tableau` – Tableau workbook
-- `/figures` – Exported visualization
+- One-page analytical brief (PDF)
+- Cleaned attendance dataset
+- SQL used for data preparation and analysis
+- Tableau workbook
+- Exported visualization
 
 ## Tools
 - DuckDB (SQL)
